@@ -26,7 +26,7 @@ A performance do modelo é avaliada em um conjunto de teste separado, utilizando
 ## 🚀 Como Usar
 
 1.  Clone este repositório.
-2.  Abra o notebook `Classificação de Imagens Histopatológicas utilizando Transfer Learning com ResNet-50.ipynb` no Google Colab ou em um ambiente Jupyter local.
+2.  Abra o notebook `ResNet_50_Dataset_BreakHis.ipynb` no Google Colab ou em um ambiente Jupyter local.
 3.  Execute as células em sequência para treinar e avaliar o modelo.
 
 Ao final da execução, o modelo treinado será salvo em disco para futuras aplicações de inferência.
